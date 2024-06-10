@@ -43,7 +43,7 @@ https://github.com/JuanPabloo890/chat.git
 
 ## GPS con guardado de datos en real-time-database o firestore.
 
-LINKS
+https://github.com/juandiego252/GeolocationApp.git
 
 ## Mostrar ubicación en Google maps o en OpenStreetMap.
 
