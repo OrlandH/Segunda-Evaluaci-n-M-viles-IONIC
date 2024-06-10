@@ -20,7 +20,7 @@ https://github.com/OrlandH/curriculum-vitae
 
 ## Aplicación para tomar fotos.
 
-LINKS
+https://github.com/JuanPabloo890/PhotoGallery.git
 
 
 ## Login con firebase authentication.
