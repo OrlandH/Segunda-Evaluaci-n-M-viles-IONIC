@@ -19,6 +19,7 @@
   <br>
   <em>Heyer Tinoco</em>
 </p>
+
 ## Aplicación de hoja de vida (CV)
 
 https://github.com/OrlandH/curriculum-vitae
