@@ -16,8 +16,7 @@
 
 ## Aplicación de hoja de vida (CV) + firebase hosting+infinite scrolling.
 
-LINKS
-
+https://github.com/OrlandH/curriculum-vitae
 
 ## Aplicación para tomar fotos.
 
