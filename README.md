@@ -2,18 +2,23 @@
 
 ## Miembros
 
-<img src="Imagenes Compas/102696740.png" alt="Juan Gualotuña" width="220">
+<p align="center">
+  <img src="Imagenes Compas/102696740.png" alt="Juan Gualotuña" width="220">
+  <br>
+  <em>Juan Gualotuña</em>
+</p>
 
->Juan Gualotuña
+<p align="center">
+  <img src="Imagenes Compas/119060037.jpg" alt="Juan Falconi" width="220">
+  <br>
+  <em>Juan Falconi</em>
+</p>
 
-<img src="Imagenes Compas/119060037.jpg" alt="Juan Falconi" width="220">
-
->Juan Falconi
-
-<img src="Imagenes Compas/Imagen de WhatsApp 2024-06-09 a las 18.47.24_59dbbdf9.jpg" alt="Heyer Tinoco" width="220">
-
->Heyer Tinoco
-
+<p align="center">
+  <img src="Imagenes Compas/Imagen de WhatsApp 2024-06-09 a las 18.47.24_59dbbdf9.jpg" alt="Heyer Tinoco" width="220">
+  <br>
+  <em>Heyer Tinoco</em>
+</p>
 ## Aplicación de hoja de vida (CV)
 
 https://github.com/OrlandH/curriculum-vitae
