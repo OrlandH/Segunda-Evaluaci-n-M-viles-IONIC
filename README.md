@@ -47,4 +47,4 @@ https://github.com/juandiego252/GeolocationApp.git
 
 ## Mostrar ubicación en Google maps o en OpenStreetMap.
 
-LINKS
+https://github.com/OrlandH/GPS-en-tiempo-Real
