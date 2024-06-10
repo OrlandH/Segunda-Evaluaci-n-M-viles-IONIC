@@ -14,7 +14,7 @@
 
 >Heyer Tinoco
 
-## Aplicación de hoja de vida (CV) + firebase hosting+infinite scrolling.
+## Aplicación de hoja de vida (CV)
 
 https://github.com/OrlandH/curriculum-vitae
 
