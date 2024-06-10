@@ -33,7 +33,7 @@ https://github.com/juandiego252/FirebaseImagenes.git
 
 ## App para chatear con Real-time-database.
 
-LINKS
+https://github.com/JuanPabloo890/chat.git
 
 ## GPS con guardado de datos en real-time-database o firestore.
 
